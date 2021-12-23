@@ -30,7 +30,7 @@
 - 💬 Ask me about anything [here](https://facebook.com/fb.sohelrana)
 - ⚡ Fun fact: I often play video games.
 
-[![YouTube: Linux Hero](https://img.shields.io/youtube/channel/views/UCP30CUiUYtvFZ8qxl0cmilQ?style=social)] (https://www.youtube.com/linuxhero)
+[![YouTube: Linux Hero](https://img.shields.io/youtube/channel/views/UCP30CUiUYtvFZ8qxl0cmilQ?label=YouTube)](https://www.youtube.com/linuxhero)
 [![Twitter: mrsohelcse](https://img.shields.io/twitter/follow/mrsohelcse?style=social)](https://twitter.com/mrsohelcse)
 [![Linkedin: mrsohelcse](https://img.shields.io/badge/-mrsohelcse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrsohelcse/)](https://www.linkedin.com/in/mrsohelcse/)
 [![GitHub Taalpatar-Shepai](https://img.shields.io/github/followers/Taalpatar-Shepai?label=follow&style=social)](https://github.com/Taalpatar-Shepai)
