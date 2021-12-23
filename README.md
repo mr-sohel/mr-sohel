@@ -25,7 +25,7 @@
 
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/linuxhero).
+- 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/linuxhero).
 - 🤔 I’m interested in Competitive Programming.
 - 💬 Ask me about anything [here](https://facebook.com/fb.sohelrana)
 - ⚡ Fun fact: I often play video games.
