@@ -33,6 +33,8 @@
 [![Twitter: mrsohelcse](https://img.shields.io/twitter/follow/mrsohelcse?style=social)](https://twitter.com/mrsohelcse)
 [![Linkedin: mrsohelcse](https://img.shields.io/badge/-mrsohelcse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrsohelcse/)](https://www.linkedin.com/in/mrsohelcse/)
 [![GitHub Taalpatar-Shepai](https://img.shields.io/github/followers/Taalpatar-Shepai?label=follow&style=social)](https://github.com/Taalpatar-Shepai)
+[![YouTube: Linux Hero](https://img.shields.io/youtube/follow/Linux_Hero?style=social)](https://www.youtube.com/linuxhero)
+
 
 
 **Languages and Tools:**
@@ -53,8 +55,6 @@
 <a href="https://github.com/Taalpatar-Shepai">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Taalpatar-Shepai&show_icons=true&theme=light&line_height=27" alt="Sohel's github stats"/>
 </a>
-
-[![My wakatime's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taalpatar-Shepai&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 
