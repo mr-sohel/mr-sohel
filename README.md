@@ -54,6 +54,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Taalpatar-Shepai&show_icons=true&theme=light&line_height=27" alt="Sohel's github stats"/>
 </a>
 
+[![My wakatime's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taalpatar-Shepai&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
