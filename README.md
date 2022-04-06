@@ -33,7 +33,7 @@
 [![YouTube: Linux Hero](https://img.shields.io/youtube/channel/views/UCP30CUiUYtvFZ8qxl0cmilQ?label=YouTube)](https://www.youtube.com/linuxhero)
 [![Twitter: mrsohelcse](https://img.shields.io/twitter/follow/mrsohelcse?style=social)](https://twitter.com/mrsohelcse)
 [![Linkedin: mrsohelcse](https://img.shields.io/badge/-mrsohelcse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrsohelcse/)](https://www.linkedin.com/in/mrsohelcse/)
-[![GitHub Taalpatar-Shepai](https://img.shields.io/github/followers/Taalpatar-Shepai?label=follow&style=social)](https://github.com/Taalpatar-Shepai)
+[![GitHub mr-sohel](https://img.shields.io/github/followers/mr-sohel?label=follow&style=social)](https://github.com/mr-sohel)
 
 
 **Languages and Tools:**
@@ -48,11 +48,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<a href="https://github.com/Taalpatar-Shepai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taalpatar-Shepai&theme=light&hide_langs_below=1" />
+<a href="https://github.com/mr-sohel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sohel&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/Taalpatar-Shepai">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Taalpatar-Shepai&show_icons=true&theme=light&line_height=27" alt="Sohel's github stats"/>
+<a href="https://github.com/mr-sohel">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-sohel&show_icons=true&theme=light&line_height=27" alt="Sohel's github stats"/>
 </a>
 
 <div align="center">
