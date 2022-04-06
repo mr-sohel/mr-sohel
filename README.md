@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/mrsohelcse/">
   <img align="left" alt="Sohel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Taalpatar-Shepai">
+<a href="https://github.com/mr-sohel">
   <img align="left" alt="Sohel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/ig_sohelrana/">
