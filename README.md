@@ -13,24 +13,18 @@
 <a href="https://instagram.com/ig_sohelrana/">
   <img align="left" alt="Sohel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://web.facebook.com/fb.sohelrana/">
+<a href="https://www.facebook.com/mrsohelcse/">
   <img align="left" alt="Sohel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/linuxhero">
-  <img align="left" alt="S's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
 <br/>
 <br/>
 
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/linuxhero).
 - 🤔 I’m interested in Competitive Programming.
 - 💬 Ask me about anything [here](https://www.facebook.com/mrsohelcse)
 - ⚡ Fun fact: I often play video games.
 
-[![YouTube: Linux Hero](https://img.shields.io/youtube/channel/views/UCP30CUiUYtvFZ8qxl0cmilQ?label=YouTube)](https://www.youtube.com/linuxhero)
 [![Twitter: mrsohelcse](https://img.shields.io/twitter/follow/mrsohelcse?style=social)](https://twitter.com/mrsohelcse)
 [![Linkedin: mrsohelcse](https://img.shields.io/badge/-mrsohelcse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrsohelcse/)](https://www.linkedin.com/in/mrsohelcse/)
 [![GitHub mr-sohel](https://img.shields.io/github/followers/mr-sohel?label=follow&style=social)](https://github.com/mr-sohel)
