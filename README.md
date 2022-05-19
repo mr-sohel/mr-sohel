@@ -25,11 +25,6 @@
 - 💬 Ask me about anything [here](https://www.facebook.com/mrsohelcse)
 - ⚡ Fun fact: I often play video games.
 
-[![Twitter: mrsohelcse](https://img.shields.io/twitter/follow/mrsohelcse?style=social)](https://twitter.com/mrsohelcse)
-[![Linkedin: mrsohelcse](https://img.shields.io/badge/-mrsohelcse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrsohelcse/)](https://www.linkedin.com/in/mrsohelcse/)
-[![GitHub mr-sohel](https://img.shields.io/github/followers/mr-sohel?label=follow&style=social)](https://github.com/mr-sohel)
-
-
 **Languages and Tools:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
