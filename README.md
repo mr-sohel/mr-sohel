@@ -8,7 +8,7 @@
   <img align="left" alt="Sohel's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <a href="https://github.com/mr-sohel">
-  <img align="left" alt="Sohel's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
+  <img align="left" alt="Sohel's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 </a>
 <a href="https://instagram.com/ig_sohelrana/">
   <img align="left" alt="Sohel's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
@@ -23,7 +23,6 @@
 - 🤔 I’m interested in Competitive Programming.
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/mrsohelcse/)
 - ⚡ Fun fact: I often play video games.
-
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mr-sohel&show_icons=true&hide=contribs,prs&theme=transparent)
@@ -43,9 +42,10 @@
 <img align="left" alt="Git" width="26px" src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png"/>
 <img align="left" alt="Bash" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919837.png"/>
 <img align="left" alt="VsCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
+<br/>
 
 <div align="center">
-
+  
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
