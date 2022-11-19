@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 🤔 I’m interested in Competitive Programming.
-- 💬 Ask me about anything [here](https://www.facebook.com/mrsohelcse)
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/mrsohelcse/)
 - ⚡ Fun fact: I often play video games.
 
 **Languages and Tools:**
