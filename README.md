@@ -14,7 +14,7 @@
   <img align="left" alt="Sohel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/mrsohelcse/">
-  <img align="left" alt="Sohel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Sohel's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/3128/3128304.png" />
 </a>
 <br/>
 <br/>
