@@ -37,13 +37,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
-<a href="https://github.com/mr-sohel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sohel&theme=transparent&hide_langs_below=1" />
-</a>
-</br>
-<a href="https://github.com/mr-sohel">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-sohel&show_icons=true&theme=transparent&line_height=27" alt="Sohel's github stats"/>
-</a>
+![My github stats](https://github-readme-stats.vercel.app/api?username=mr-sohel&show_icons=true&hide=contribs,prs&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sohel&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 
