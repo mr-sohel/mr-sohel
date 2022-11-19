@@ -19,11 +19,16 @@
 <br/>
 <br/>
 
-
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 🤔 I’m interested in Competitive Programming.
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/mrsohelcse/)
 - ⚡ Fun fact: I often play video games.
+
+
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=mr-sohel&show_icons=true&hide=contribs,prs&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sohel&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Tools:**
 
@@ -36,10 +41,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=mr-sohel&show_icons=true&hide=contribs,prs&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sohel&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 
