@@ -1,4 +1,4 @@
-## Hi, I'm [Md. Sohel Rana](https://www.stopstalk.com/user/profile/Taalpatar_Shepai) 👋
+## Hi, I'm [Md. Sohel Rana](https://www.stopstalk.com/user/profile/Mr_Sohel) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sohel&label=Views&color=blue&style=plastic" alt="mr-sohel" /> </p>
 <a href="https://twitter.com/mrsohelcse">
