@@ -19,10 +19,10 @@
 <br/>
 <br/>
 
-- 🎓 I’m a final-year CS student, currently open to Junior Software Engineer roles.
+- 🎓 I’m a final-year CS student based in Bangladesh, currently open to Junior Software Engineer roles.
 - 🚀 I’m a passionate Competitive Programmer (Specialist on Codeforces) and a 3x ICPC Dhaka Regional participant.
-- 💻 I'm currently building an Online Judge system using C#, Asp.net core, Docker, and RabbitMQ. 
-- 🌱 I’m focused on mastering **Full Stack ASP.NET Core MVC**, while diving deep into **Machine Learning, AI, and Computer Vision**.
+- 💻 I'm currently building an Online Judge system using C#, Asp.net, Docker, and RabbitMQ. 
+- 🌱 I’m focused on mastering **Full Stack ASP.NET Core MVC**, while diving deep into **Machine Learning, AI, and Computer Vision**
 - 💬 Ask me about: ASP.NET Core, Competitive Programming, OpenWrt/FOSS self-hosting, or building custom mechanical keyboards!
 - ⚡ Fun fact: I'm a huge fan of story-driven open-world games—especially *Red Dead Redemption 2*.
 
