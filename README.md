@@ -1,4 +1,4 @@
-## Hi, I'm [Md. Sohel Rana](https://www.stopstalk.com/user/profile/Mr_Sohel) 👋
+## Hi, I'm [Md. Sohel Rana](https://codolio.com/profile/mr_sohel) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sohel&label=Views&color=blue&style=plastic" alt="mr-sohel" /> </p>
 <a href="https://twitter.com/mrsohelcse">
@@ -19,11 +19,12 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 🤔 I’m interested in Competitive Programming.
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/mrsohelcse/)
-- ⚡ Fun fact: I often play video games.
-
+- 🎓 I’m a final-year CS student based in Bangladesh, currently open to Junior Software Engineer roles.
+- 🚀 I’m a passionate Competitive Programmer (Specialist on Codeforces) and a 3x ICPC Dhaka Regional participant.
+- 💻 I'm currently building an Online Judge system using Docker, C++, and RabbitMQ. 
+- 🌱 I’m currently focused on mastering **Full Stack ASP.NET Core MVC**, while continuing to build with the MERN stack and exploring Computer Vision.
+- 💬 Ask me about: ASP.NET Core, Competitive Programming, OpenWrt/FOSS self-hosting, or building custom mechanical keyboards!
+- ⚡ Fun fact: I'm a huge fan of story-driven open-world games—especially *Red Dead Redemption 2*.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mr-sohel&show_icons=true&hide=contribs,prs&theme=transparent)
 
@@ -31,18 +32,18 @@
 
 **Languages and Tools:**
 
-<img align="left" alt="C" width="26px" src="https://cdn-icons-png.flaticon.com/512/3097/3097008.png"/>
 <img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
+<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt=".NET Core" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
 <img align="left" alt="JS" width="26px" src="https://cdn-icons-png.flaticon.com/512/4726/4726005.png"/>
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png"/>
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"/>
 <img align="left" alt="Git" width="26px" src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png"/>
-<img align="left" alt="Sublime" width="26px" src="https://www.sublimehq.com/images/sublime_text.png"/>
 <img align="left" alt="VsCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
 <br/>
 <br/>
