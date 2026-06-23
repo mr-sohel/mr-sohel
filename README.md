@@ -1,6 +1,12 @@
-<h1 align="center">Hi there, I'm <a href="https://codolio.com/profile/mr_sohel">Md. Sohel Rana</a></h1>
+<h1 align="center">Hi there, I'm Md. Sohel Rana</h1>
 
 <h3 align="center">ASP.NET Core Developer &nbsp;•&nbsp; Codeforces Specialist &nbsp;•&nbsp; AI/ML Enthusiast</h3>
+
+<p align="center">
+  <a href="https://codolio.com/profile/mr_sohel">
+    <img src="https://img.shields.io/badge/Competitive%20Programming%20Stats-0052CC?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mrsohelcse/"><img alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a> &nbsp;&nbsp;
