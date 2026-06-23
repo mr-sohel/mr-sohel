@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mrsohelcse/"><img alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mrsohel/"><img alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a> &nbsp;&nbsp;
   <a href="https://github.com/mr-sohel"><img alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" /></a> &nbsp;&nbsp;
-  <a href="https://www.facebook.com/mrsohelcse/"><img alt="Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" /></a>
+  <a href="https://www.facebook.com/Sohelr360/"><img alt="Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" /></a>
 </p>
 
 <p align="center">
