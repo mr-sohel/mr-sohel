@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://codolio.com/profile/mr_sohel">
-    <img src="https://img.shields.io/badge/Competitive%20Programming%20Stats-0052CC?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
+    <img src="https://img.shields.io/badge/Competitive%20Programming%20Stats-03A89E?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
   </a>
 </p>
 
