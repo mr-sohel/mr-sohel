@@ -89,12 +89,11 @@ I specialize in **backend engineering with C# and ASP.NET Core**, with a strong 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-sohel&theme=tokyonight&hide_border=true" alt="GitHub Streak — Md. Sohel Rana (mr-sohel)" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sohel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages — Sohel Rana" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-sohel&theme=transparent&hide_border=true&background=00000000&ring=0d9488&fire=0d9488&currStreakNum=0d9488&sideNums=777777&currStreakLabel=777777&sideLabels=777777&dates=777777" alt="Sohel's GitHub Streak" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mr-sohel&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=0d9488&text_color=777777" alt="Top Languages — Sohel Rana" />
+</div>
 
 ---
 
