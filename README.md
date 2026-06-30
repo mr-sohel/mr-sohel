@@ -39,39 +39,35 @@ I'm a final-year **Computer Science & Engineering student** based in Dhaka, Bang
 - 🥈 **3× ICPC Asia Dhaka Regionalist**
 - 🎯 **Meta Hacker Cup 2025** — Round 2 Qualifier
 - 🥉 **UAP Inter-University Programming Contest** — 2nd Runner-up
-- 🥇 **2× BUBT Intra-University Programming Champion**
+- 🥇 **2× BUBT Intra-University Programming Contest** Champion
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+**Backend & Languages**  
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,dotnet" />
+</a>
 
-**Databases & Infra**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+**Databases & Messaging**  
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,rabbitmq" />
+</a>
 
-**Frontend**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**Frontend**  
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=angular,react,ts" />
+</a>
 
-**AI / ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-
-**Competitive Programming**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
+**Cloud, DevOps & Tools**  
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,githubactions,git" />
+</a>
 
 ---
 
