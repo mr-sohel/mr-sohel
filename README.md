@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Md. Sohel Rana (Mr Sohel) 👋</h1>
+<h1 align="center">Hi, I'm Md. Sohel Rana 👋</h1>
 
 <p align="center">
   <strong>Software Engineer</strong> &nbsp;•&nbsp;
@@ -34,6 +34,15 @@ I'm a final-year **Computer Science & Engineering student** based in Dhaka, Bang
 
 ---
 
+## 🏆 Key Achievements
+
+- 🥈 **3× ICPC Asia Dhaka Regionalist**
+- 🎯 **Meta Hacker Cup 2025** — Round 2 Qualifier
+- 🥉 **UAP Inter-University Programming Contest** — 2nd Runner-up
+- 🥇 **2× BUBT Intra-University Programming Champion**
+
+---
+
 ## 🛠️ Tech Stack
 
 **Backend**
@@ -63,23 +72,6 @@ I'm a final-year **Computer Science & Engineering student** based in Dhaka, Bang
 **Competitive Programming**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
-
----
-
-## 🏅 Competitive Programming
-
-| Platform | Handle | Rating / Rank |
-|----------|--------|---------------|
-| Codeforces | [mr_sohel](https://codeforces.com/profile/mr_sohel) | **Specialist** (Rating: 1422) |
-| LeetCode | [mr_sohel](https://leetcode.com/u/mr_sohel/) | 1500+ problems |
-| CodeChef | [mr_sohel](https://www.codechef.com/users/mr_sohel) | 3★ |
-| HackerRank | [taalpatar_shepai](https://www.hackerrank.com/profile/taalpatar_shepai) | Problem Solving (Intermediate) |
-
-### 🏆 Key Achievements
-- 🥈 **3× ICPC Asia Dhaka Regionalist**
-- 🎯 **Meta Hacker Cup 2025** — Round 2 Qualifier
-- 🥇 **2× BUBT Intra-University Programming Champion**
-- 🥉 **UAP Inter-University Programming Contest** — 2nd Runner-up
 
 ---
 
