@@ -1,11 +1,10 @@
-<h1 align="center">Hi, I'm Md. Sohel Rana</h1>
-<h3 align="center">Also known as <strong>Mr Sohel</strong> · <code>mr_sohel</code> · <code>mrsohel</code> · <code>mrsohelcse</code></h3>
+<h1 align="center">Hi, I'm Md. Sohel Rana (Mr Sohel) 👋</h1>
 
 <p align="center">
+  <strong>Software Engineer</strong> &nbsp;•&nbsp;
   <strong>ASP.NET Core & C# Developer</strong> &nbsp;•&nbsp;
   <strong>3× ICPC Asia Dhaka Regionalist</strong> &nbsp;•&nbsp;
-  <strong>Codeforces Specialist</strong> &nbsp;•&nbsp;
-  <strong>Backend Engineer</strong>
+  <strong>Codeforces Specialist</strong>
 </p>
 
 <p align="center">
@@ -26,19 +25,12 @@
   <img src="https://komarev.com/ghpvc/?username=mr-sohel&label=Profile%20Views&color=0d9488&style=flat-square" alt="Profile views for mr-sohel (Md. Sohel Rana)" />
 </p>
 
----
-
-## 👋 About Me
-
-I'm **Sohel Rana** — a final-year **Computer Science & Engineering student at BUBT** (Bangladesh University of Business & Technology), Dhaka. I go by **Mr Sohel** online (`mr_sohel` on Codeforces, `mr-sohel` on GitHub).
-
-I specialize in **backend engineering with C# and ASP.NET Core**, with a strong foundation in algorithms and system design built through 5+ years of competitive programming.
+I'm a final-year **Computer Science & Engineering student** based in Dhaka, Bangladesh. I specialize in **software engineering with C# and ASP.NET Core**, backed by a strong foundation in algorithms and system design built through 5+ years of competitive programming.
 
 - 🔭 Currently building an **Online Judge System** — containerized code execution with Docker + RabbitMQ + ASP.NET Core
-- 🏆 **3× ICPC Asia Dhaka Regional** participant (Rank 157 in 2024, Honorable Mention in 2023)
-- ⚡ **Codeforces Specialist** — 1500+ problems solved across 140+ contests
+- ⚡ **Codeforces Specialist** (Rating: 1422) — 1500+ problems solved across 140+ contests
 - 🎯 Actively seeking **Software Engineer / .NET Developer** roles (full-time, on-site Dhaka, remote, or relocation)
-- 📫 Reach me: **mrsohelcse@gmail.com** · [mr-sohel.github.io](https://mr-sohel.github.io)
+- 📫 Reach me: **[mrsohelcse@gmail.com](mailto:mrsohelcse@gmail.com)**
 
 ---
 
@@ -78,12 +70,16 @@ I specialize in **backend engineering with C# and ASP.NET Core**, with a strong 
 
 | Platform | Handle | Rating / Rank |
 |----------|--------|---------------|
-| Codeforces | [mr_sohel](https://codeforces.com/profile/mr_sohel) | **Specialist** (top 12% globally) |
+| Codeforces | [mr_sohel](https://codeforces.com/profile/mr_sohel) | **Specialist** (Rating: 1422) |
 | LeetCode | [mr_sohel](https://leetcode.com/u/mr_sohel/) | 1500+ problems |
 | CodeChef | [mr_sohel](https://www.codechef.com/users/mr_sohel) | 3★ |
 | HackerRank | [taalpatar_shepai](https://www.hackerrank.com/profile/taalpatar_shepai) | Problem Solving (Intermediate) |
 
-**Achievements:** 3× ICPC Asia Dhaka Regional · Meta Hacker Cup 2025 Round 2 · 2× BUBT Champion · UAP 2nd Runner-up
+### 🏆 Key Achievements
+- 🥈 **3× ICPC Asia Dhaka Regionalist**
+- 🎯 **Meta Hacker Cup 2025** — Round 2 Qualifier
+- 🥇 **2× BUBT Intra-University Programming Champion**
+- 🥉 **UAP Inter-University Programming Contest** — 2nd Runner-up
 
 ---
 
